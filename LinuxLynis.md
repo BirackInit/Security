@@ -32,7 +32,7 @@ Effectuez une mise à jour des informations de Lynis pour vous assurer d'utilise
 
 Assurez-vous que votre système est à jour en effectuant une mise à jour des paquets disponibles.
 
-𝘀𝘂𝗱𝗼 𝗮𝗽𝘁-𝗴𝗲𝘁 𝘂𝗽𝗱𝗮𝘁𝗲 && 𝘀𝘂𝗱𝗼 𝗮𝗽𝘁-𝗴𝗲𝘁 𝘂𝗽𝗴𝗿𝗮𝗱𝗲
+𝘀𝘂𝗱𝗼 𝗮𝗽𝘁-𝗴𝗲𝘁 update && 𝘀𝘂𝗱𝗼 𝗮𝗽𝘁-𝗴𝗲𝘁 upgrate
 
 
 ## Étape 3: Audit avec Lynis (en spécifiant l'auditeur)
