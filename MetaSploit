@@ -1,0 +1,12 @@
+ cd Documents/
+
+ mkdir Test
+
+git init
+
+touch PremierFichier.txt
+
+git add PremierFichier.txt
+
+git commit
+
